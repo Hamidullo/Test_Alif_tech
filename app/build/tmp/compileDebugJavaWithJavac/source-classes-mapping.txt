@@ -1,0 +1,42 @@
+com/criminal_code/task/ui/data/TaskDao.java
+ com.criminal_code.task.ui.data.TaskDao
+com/criminal_code/task/ui/home/HomeViewModel.java
+ com.criminal_code.task.ui.home.HomeViewModel
+com/criminal_code/task/ui/notifications/NotificationsFragment.java
+ com.criminal_code.task.ui.notifications.NotificationsFragment
+ com.criminal_code.task.ui.notifications.NotificationsFragment$1
+com/criminal_code/task/ui/data/AppDatabase.java
+ com.criminal_code.task.ui.data.AppDatabase
+com/criminal_code/task/ui/Model/Tasks.java
+ com.criminal_code.task.ui.Model.Tasks
+ com.criminal_code.task.ui.Model.Tasks$1
+com/criminal_code/task/ui/notifications/NotificationsViewModel.java
+ com.criminal_code.task.ui.notifications.NotificationsViewModel
+com/criminal_code/task/ui/home/HomeFragment.java
+ com.criminal_code.task.ui.home.HomeFragment
+ com.criminal_code.task.ui.home.HomeFragment$1
+com/criminal_code/task/ui/view/MainActivity.java
+ com.criminal_code.task.ui.view.MainActivity
+ com.criminal_code.task.ui.view.MainActivity$1
+com/criminal_code/task/BuildConfig.java
+ com.criminal_code.task.BuildConfig
+com/criminal_code/task/ui/dashboard/DashboardViewModel.java
+ com.criminal_code.task.ui.dashboard.DashboardViewModel
+com/criminal_code/task/ui/view/TaskActivity.java
+ com.criminal_code.task.ui.view.TaskActivity
+ com.criminal_code.task.ui.view.TaskActivity$1
+ com.criminal_code.task.ui.view.TaskActivity$1$1
+ com.criminal_code.task.ui.view.TaskActivity$2
+ com.criminal_code.task.ui.view.TaskActivity$2$1
+com/criminal_code/task/ui/App.java
+ com.criminal_code.task.ui.App
+com/criminal_code/task/ui/adapters/Adapter.java
+ com.criminal_code.task.ui.adapters.Adapter
+ com.criminal_code.task.ui.adapters.Adapter$1
+ com.criminal_code.task.ui.adapters.Adapter$TaskViewHolder
+ com.criminal_code.task.ui.adapters.Adapter$TaskViewHolder$1
+ com.criminal_code.task.ui.adapters.Adapter$TaskViewHolder$2
+ com.criminal_code.task.ui.adapters.Adapter$TaskViewHolder$3
+com/criminal_code/task/ui/dashboard/DashboardFragment.java
+ com.criminal_code.task.ui.dashboard.DashboardFragment
+ com.criminal_code.task.ui.dashboard.DashboardFragment$1

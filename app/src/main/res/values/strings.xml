@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="title_home">All</string>
+    <string name="title_dashboard">Doing</string>
+    <string name="title_notifications">Done</string>
+</resources>
